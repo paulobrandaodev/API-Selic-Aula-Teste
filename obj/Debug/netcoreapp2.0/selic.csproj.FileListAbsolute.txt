@@ -1,0 +1,10 @@
+C:\selic\bin\Debug\netcoreapp2.0\selic.deps.json
+C:\selic\bin\Debug\netcoreapp2.0\selic.runtimeconfig.json
+C:\selic\bin\Debug\netcoreapp2.0\selic.runtimeconfig.dev.json
+C:\selic\bin\Debug\netcoreapp2.0\selic.dll
+C:\selic\bin\Debug\netcoreapp2.0\selic.pdb
+C:\selic\obj\Debug\netcoreapp2.0\selic.csproj.CoreCompileInputs.cache
+C:\selic\obj\Debug\netcoreapp2.0\selic.AssemblyInfoInputs.cache
+C:\selic\obj\Debug\netcoreapp2.0\selic.AssemblyInfo.cs
+C:\selic\obj\Debug\netcoreapp2.0\selic.dll
+C:\selic\obj\Debug\netcoreapp2.0\selic.pdb
